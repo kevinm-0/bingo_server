@@ -1,0 +1,6 @@
+.env
+/__pycache__
+bgen_history.json
+board.json
+messages.json
+test.py
